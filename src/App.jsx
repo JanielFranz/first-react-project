@@ -3,7 +3,7 @@ import './App.css'
 import Navbar from "./components/Navbar.jsx";
 
 function App() {
-    <Navbar />
+    return <Navbar />
 }
 
 export default App
